@@ -1,2 +1,0 @@
-# Force all .sql files to be recognized as SQL
-*.sql linguist-language=TSQL
